@@ -76,6 +76,8 @@ We made a *validation* and *test-dev* dataset with a public leaderboard availabl
  We released our first Robotic Vision [object detection challenge](https://competitions.codalab.org/competitions/20940)! Participants are tasked with **object detection** on a **video** stream, where each detection must provide accurate estimates of **spatial and semantic uncertainty** using probabilistic bounding boxes. Participants are evaluated using a new  measure which will reward accurate estimations of spatial and semantic uncertainty. -->
 
 # News
+  **29 March 2021** Nvidia updates our GPU prizes on offer from Titan RTX to Quadro 6000 RTX GPUs!
+
   **17 February 2021** We launch the second iteration of the [Scene Understanding Challenge](scene-understanding) in association with the [CVPR2021 Embodied AI workshop](https://embodied-ai.org/) (deadline 7th May 2021). **$,2500 USD** in cash and GPU prizes are available to the best teams.
 
   **29 June 2020** Nvidia kindly supports the Scene Understanding Challenge by providing 2 GPUs as prizes for the best teams. Thank you Nvidia!
