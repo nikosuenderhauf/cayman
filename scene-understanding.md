@@ -12,7 +12,7 @@ layout: default
 </center>
 
 ## News
- * **29 March 2021** Nvidia update main GPU prize from Titan RTX to **Quadro 6000 RTX**
+ * **29 March 2021** Nvidia update main GPU prize from Titan RTXs to **Quadro RTX6000s**
  * **17 February 2021** Challenge released as part of [CVPR 2021 Embodied AI workshop](https://embodied-ai.org/)
 
 ## Overview
@@ -21,7 +21,7 @@ The challenge consists of two distinct tasks: **Object-based Semantic SLAM**, an
 
 
 Key features of this challenge include:
-* Prizes including **$2500 USD, Quadro 6000 RTX GPUs, and Jetson Nano GPUs**
+* Prizes including **$2500 USD, Quadro RTX6000 GPUs, and Jetson Nano GPUs**
 * [BenchBot](https://github.com/qcr/benchbot), a complete software stack for running robotic systems
 * Running algorithms in realistic 3D simulation, and on real robots, with only a few lines of Python code
 * The [BenchBot API](https://github.com/qcr/benchbot_api), which allows simple interfacing with robots while supporting both OpenAI Gym-style and simple object-oriented Agent approaches
@@ -88,8 +88,8 @@ Each participant is also required to write a short paper (approx 4 pages) outlin
 As the challenge is complex, with multiple components, we provide a tiered prize list. The highest scoring on any given leaderboard will be awarded the corresponding prize.
 Teams are allowed to participate across all challenges and win multiple prizes.
 
-1. Scene Change Detection (ADR) - $900 USD, 1 Quadro 6000 RTX GPU, up to 5 Jetson Nano GPUs
-2. Semantic SLAM (ADR) - $800 USD, 1 Quadro 6000 RTX GPU, up to 5 Jetson Nano GPUs
+1. Scene Change Detection (ADR) - $900 USD, 1 Quadro RTX6000 GPU, up to 5 Jetson Nano GPUs
+2. Semantic SLAM (ADR) - $800 USD, 1 Quadro RTX6000 GPU, up to 5 Jetson Nano GPUs
 3. Semantic SLAM (AGT) - $500 USD
 4. Semantic SLAM (PGT) - $300 USD
 
