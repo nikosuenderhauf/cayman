@@ -82,7 +82,9 @@ To participate in our challenge:
 `benchbot_batch  -r carter  -t <your_task>  -E <batch_name>  -z  -n <your_submission_cmd>`
 6. Use the Submit tab at the top of our [EvalAI page](https://eval.ai/web/challenges/challenge-page/807/overview) to submit your results for evaluation
 
-Each participant is also required to write a short paper (approx 4 pages) outlining the technique which was used in the challenge. Please submit papers to (TBA). These papers will be made available to the general public through our challenge website.
+Pariticipants need to provide a short summary of the method at submission time.
+Each participant is also encouraged to write a short paper (approx 4 pages) outlining the technique which was used in the challenge. These papers are no longer required at the same time as the initial submission but will be made available to the general public through our challenge website.
+Please submit summaries and papers by e-mail to [contact@roboticvisionchallenge.org](contact@roboticvisionchallenge.org).
 
 ## Challenge Prizes
 As the challenge is complex, with multiple components, we provide a tiered prize list. The highest scoring on any given leaderboard will be awarded the corresponding prize.
