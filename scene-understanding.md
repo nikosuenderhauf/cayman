@@ -12,6 +12,7 @@ layout: default
 </center>
 
 ## News
+ * **17 May 2021** Challenge extended to **May 31st**.
  * **29 March 2021** Nvidia update main GPU prize from Titan RTXs to **Quadro RTX6000s**
  * **17 February 2021** Challenge released as part of [CVPR 2021 Embodied AI workshop](https://embodied-ai.org/)
 
@@ -40,8 +41,7 @@ Key features of this challenge include:
 
 ## Important Dates (2021)
 * February 17th - Challenge launch
-* May 7th - Results and paper submissions due
-* May 19th - Notification to challenge winners
+* May 31st - Results and paper submissions due
 * June 19th-25th - CVPR 2021
 
 ## Challenge Tasks

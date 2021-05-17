@@ -30,7 +30,7 @@ The Robotic Vision [Scene Understanding Challenge](scene-understanding) evaluate
 There will be two tasks in this challenge: **Object-based Semantic Mapping / SLAM**, and **Scene Change Detection**.
 
 <a href="https://embodied-ai.org/"><img src="assets/img/cvpr2021logo.jpg" width="120" style="float:left; margin-right:10px;"></a>
-This challenge is now open for [participation](https://evalai.cloudcv.org/web/challenges/challenge-page/625/overview) (deadline 7th May 2020). **$,2500 USD** in cash prizes (thanks to the [Australian Centre for Robotic Vision](http://www.roboticvision.org) and **2 GPUs** (thanks to Nvidia) are available to the best teams.
+This challenge is now open for [participation](https://evalai.cloudcv.org/web/challenges/challenge-page/625/overview) (deadline 31st May 2020). **$,2500 USD** in cash prizes (thanks to the [Australian Centre for Robotic Vision](http://www.roboticvision.org) and **2 GPUs** (thanks to Nvidia) are available to the best teams.
 This challenge is being run in association with the CVPR2021 workshop for [Embodied AI Challenges](https://embodied-ai.org/).
 
 <!-- We will present the results of the challenge at our workshop on the topic of [Scene Understanding and Semantic SLAM: Progress, Applications, and Limitations](icra2020) at ICRA 2020 in Paris, France. Stay tuned for further information, we expect the challenge server to come online in **Feburary 2020**. In the meantime, you can find more information [here](scene-understanding) and in the video below. -->
@@ -76,6 +76,8 @@ We made a *validation* and *test-dev* dataset with a public leaderboard availabl
  We released our first Robotic Vision [object detection challenge](https://competitions.codalab.org/competitions/20940)! Participants are tasked with **object detection** on a **video** stream, where each detection must provide accurate estimates of **spatial and semantic uncertainty** using probabilistic bounding boxes. Participants are evaluated using a new  measure which will reward accurate estimations of spatial and semantic uncertainty. -->
 
 # News
+  **17 May 2021** Extended deadline of CVPR 2021 [Scene Understanding Challenge](scene-understanding) to **May 31st**
+
   **29 March 2021** Nvidia updates our GPU prizes on offer from Titan RTX to Quadro RTX6000 GPUs!
 
   **17 February 2021** We launch the second iteration of the [Scene Understanding Challenge](scene-understanding) in association with the [CVPR2021 Embodied AI workshop](https://embodied-ai.org/) (deadline 7th May 2021). **$,2500 USD** in cash and GPU prizes are available to the best teams.
