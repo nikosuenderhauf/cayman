@@ -23,7 +23,7 @@ We invite anyone who is interested in object detection and appreciates a good ch
 
 We maintain two evaluation servers on [Codalab](http://www.codalab.org):
    * An [**ongoing evaluation**](https://competitions.codalab.org/competitions/20595) server with a public leaderboard that remains open year-round and can be used to benchmark your algorithm, e.g. for paper submissions. It contains a validation dataset, and a test-dev dataset.
-   * A [**competition evaluation**](https://competitions.codalab.org/competitions/20597) server that will only be available before competitions we organise at major computer vision and robotics conferences. **Currently OPEN! ECCV 2020 Challenge**
+   * A [**competition evaluation**](https://competitions.codalab.org/competitions/20597) server that will only be available before competitions we organise at major computer vision and robotics conferences.
 
 
 ### Ongoing Evaluation Server
@@ -32,7 +32,7 @@ We maintain two evaluation servers on [Codalab](http://www.codalab.org):
 
 ### ECCV 2020 Competition Evaluation Server
 <img src="assets/img/eccv20logo.png" width="200" style="float:left; margin-right:10px;">
-We are currently running the 3rd iteration of the competition in association with our ECCV 2020 workshop [Beyond mAP: Rassessing the Evaluation of Object Detectors](eccv2020). Cash prizes will be awarded to high competitors, along with the opportunity to present their work at our workshop. The server for the competition is currently running [here](https://competitions.codalab.org/competitions/20597) and final submissions are due on the **5th of August**.
+We organised a ECCV 2020 workshop [Beyond mAP: Rassessing the Evaluation of Object Detectors](eccv2020) which hosted the 3rd iteration of our challenge. The workshop saw 4 workshop papers and 3 challenge participants. Full details and links to papers/presentations can be found on the [workshop website](eccv2020).
 
 ### IROS 2019 Competition Evaluation Server
  <img src="assets/img/logo-iros-2019.png" width="200" style="float:left; margin-right:10px;">
